@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adriaardila&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adriaardila&theme=dark&ring=DD2727&fire=DD2727&currStreakLabel=FFFFFF" alt="Mindfulpol's Streak Stats" width="450" />
+</p>
 
 <!--
 **adriaardila/adriaardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
