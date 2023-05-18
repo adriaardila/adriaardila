@@ -1,8 +1,6 @@
-
-
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">Currently working on Nudato ⚡</h2>
 <p align="center">
-  ### Hi there 👋
-  ## Currently working on Nudato ⚡
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adriaardila&theme=dark&ring=DD2727&fire=DD2727&currStreakLabel=FFFFFF" alt="Mindfulpol's Streak Stats" width="450" />
 </p>
 
