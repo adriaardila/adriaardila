@@ -2,6 +2,8 @@
   
 ![adriaardila's GitHub stats](https://github-readme-stats-omega-beige-18.vercel.app/api?username=adriaardila&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage&include_all_commits=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriaardila)](https://github.com/adriaardila/github-readme-stats)
+
 </div>
 
 <!--
