@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/adriaardila/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/adriaardila/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adriaardila&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **adriaardila/adriaardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
