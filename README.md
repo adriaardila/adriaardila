@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adriaardila&theme=dark&ring=DD2727&fire=DD2727&currStreakLabel=FFFFFF" alt="Mindfulpol's Streak Stats" width="450" />
-</p>
+[![adriaardila's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriaardila)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adriaardila/adriaardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
