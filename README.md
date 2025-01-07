@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![adriaardila's GitHub stats](https://github-readme-stats-omega-beige-18.vercel.app/api?username=adriaardila&show_icons=true&theme=radical)
+
+</div>
 
 <!--
 **adriaardila/adriaardila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
