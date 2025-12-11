@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <a href="https://adriaardila.com">Visit my website</a>
+  <a href="https://adriaardila.com">Dev Blog</a>
 </div>
